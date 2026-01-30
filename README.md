@@ -37,7 +37,7 @@ If you use the code or data from this repository, please cite our paper (current
 ```bibtex
 @article{SJ_analysis,
     title={m6A RNA modification controls reproductive development and metabolic adaptation in the human parasite Schistosoma japonicum},
-    author={Bikash Ranjan Giri#, Zihao Zhang#, Lu Liu#, Chuantao Fang, Huaman Liu, Xiaoxu Wang, Shiyu Zhu, Mengting Qiu, Xiaoli Yan, Omri Wurtzel, Cizhong Jiang*, Guofeng Cheng*},
+    author={Bikash Ranjan Giri#, Zihao Zhang#, Lu Liu#, Chuantao Fang, Xiaoxu Wang, Shiyu Zhu, Mengting Qiu, Xiaoli Yan, Yan Ge, Zhuo Lan, Omri Wurtzel, Cizhong Jiang*, Guofeng Cheng*},
     journal={XX},
     year={2026},
     doi={xx}
